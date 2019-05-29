@@ -1,3 +1,7 @@
+- [For review GitHub Pages](https://batsenko.github.io/js_safe-call/)
+
+
+
 # Safe Call
 
 1. Create a function called `safeCall` that accepts another function `f` as a parameter, calls `f` without any arguments and returns `true` if `f` has executed without any errors or `false` if `f` has thrown an error. Sample usage:
